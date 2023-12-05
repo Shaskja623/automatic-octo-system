@@ -1,0 +1,19 @@
+{
+  "name": "advent-of-code-unit-tests",
+  "version": "1.0.0",
+  "description": "Collecting Unit Tests for Advent of Code",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Shaskja623/automatic-octo-system.git"
+  },
+  "author": "Fernando Batista",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shaskja623/automatic-octo-system/issues"
+  },
+  "homepage": "https://github.com/Shaskja623/automatic-octo-system#readme"
+}
